@@ -4,8 +4,9 @@
 **Senior Software Engineering Manager**  
 Building great products by leading technology and developer teams during the day, and building my own products at night.
 
-## 🌟 Highlighted Project
+## 🌟 Highlighted Projects
 - **CrowdSale**: A featured project that showcases my passion for innovative product development and technical leadership.
+- **BidNSave**: A pltform that enables bidding based driver assignment for online deliveries
 
 ## 👨‍💻 About Me
 - Experienced in leading technology teams and delivering impactful software solutions.
