@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jayakrishna Ichapurapu 👋
 
-<!--
-**jaykrishna316/jaykrishna316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Profession / Current Role
+**Senior Software Engineering Manager**  
+Building great products by leading technology and developer teams during the day, and building my own products at night.
 
-Here are some ideas to get you started:
+## 🌟 Highlighted Project
+- **CrowdSale**: A featured project that showcases my passion for innovative product development and technical leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Experienced in leading technology teams and delivering impactful software solutions.
+- Passionate about mentoring developers and fostering growth in engineering teams.
+- Continuously building and launching new products in my spare time.
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/jaykrishna316)
+- [GitHub](https://github.com/jaykrishna316)
+
+---
+
+_“Leading by example. Building by passion.”_
+
