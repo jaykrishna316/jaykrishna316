@@ -16,13 +16,6 @@
 
 ## 👋 About me
 
-I'm a **Sr. Software Engineering Manager at 7-Eleven**, where I've spent 8+ years (and 5 promotions) leading consumer apps, last-mile delivery, and quality engineering — the 7-Eleven Rewards app, 7NOW, Speedway, and Skipcart.
-
-- 🛒 Led the marketplace integrations that put 7-Eleven on **10+ ordering platforms** (DoorDash, Uber Eats, Grubhub, Instacart, Google Food Ordering and more) across two countries
-- 🚆 Release Train Engineer for a digital org of **15 app teams / ~400 people**
-- 🏆 CDO Recognition Award (2019), CIO Recognition Award (2020), CEO recognition at a company town hall (2020)
-- 🎬 Before that: The Walt Disney Company, Deep North (AI / computer vision), Gilead Sciences
-
 Twelve years of coordinating large human teams taught me that the hard part is never one smart worker — it's keeping many workers **in sync, informed, and making good collective decisions.** AI agents have exactly the same problem. That's what I build at night.
 
 ---
